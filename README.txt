@@ -3,8 +3,8 @@ CMPT 318 Final Project
 
 Names of Team Members
 ---------------------
-Names: Prince Emmanuel Nitafan, Anh Cung 
-Emails: pen@sfu.ca (Prince), atc16@sfu.ca (Anh)
+Names: Prince Emmanuel Nitafan, A. C. 
+Emails: pen@sfu.ca (Prince),
 
 Description
 -----------
