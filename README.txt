@@ -11,7 +11,10 @@ Description
 Programmed in R language to detect anomalies in data sets. We utilised the PCA method to
 determine which variables are appropriate for anomaly detection in electricity consumption.
 Furthermore, we trained and tested Hidden Markove Models to determine the degree of anomaly
-in the data sets with anomalies.
+in the data sets with anomalies. 
+
+Note: For a more detailed process, please read file 'Report_HMM'.
+
 Files 'DataWITHAnomalies1.txt', 'DataWITHAnomalies2.txt', 'DataWITHAnomalies3.txt', 
 'TermProjectData.txt' are provided by the SFU CMPT 318 staff.
 
